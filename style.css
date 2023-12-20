@@ -1,0 +1,11 @@
+table, th, td, tr {
+    border: 1px solid grey;
+    text-align: center;
+    padding: 4px;
+}
+.raspored {
+    background-color: aqua;
+}
+.dani {
+    background-color: coral;
+}
